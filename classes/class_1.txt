@@ -1,0 +1,15 @@
+Class name: Entree
+
+Attributes:
+1. nameOfDish (string)
+2. numOfTimesOrdered (integer)
+3. costOfDish (float)
+4. isPrepared (Boolean)
+5. ingredients (array)
+
+Methods:
+1. renameDish = (updates nameOfDish)
+2. orderDish = (adds 1 to numOfTimesOrdered)
+3. discount = (deducts 0.5 from costOfDish)
+4. orderReady = (isPrepared = true)
+5. addIngredient = (adds "red peppers" to ingredients array)
