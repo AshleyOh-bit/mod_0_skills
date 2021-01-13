@@ -1,0 +1,9 @@
+var food = "spaghetti";
+var isDelicious = true;
+food = "sandwich";
+var num2 = 5;
+var num7 = 10;
+var quotient = num7 / num2;
+var songs = ["I'm on Fire", "Oh, Darling", "Supermodel"];
+var removedSong = songs.shift();
+var lengthOfFood = food.length;
