@@ -1,0 +1,15 @@
+Class 1 example object: Lasanga
+
+Attributes:
+1. nameOfDish = "Mom's Lasanga"(string)
+2. numOfTimesOrdered = 25 (integer)
+3. costOfDish = 10.75 (float)
+4. isPrepared = false (Boolean)
+5. ingredients = ["lasanga noodles", "ricotta", "marinera"](array)
+
+Methods:
+1. renameDish => nameOfDish = "Auntie Sue's Lasanga"
+2. orderDish => numOfTimesOrdered = 26
+3. discount => costOfDish = 10.25
+4. orderReady => isPrepared = true
+5. addIngredient => ingredients = ["lasanga noodles", "ricotta", "marinera", "red peppers"]
