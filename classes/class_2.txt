@@ -1,0 +1,15 @@
+Class name: Decor
+
+Attributes:
+1. artistOnDisplay (string)
+2. numOfVotives (integer)
+3. costOfArt (float)
+4. moodLightsOn (Boolean)
+5. muralPaintColors (array)
+
+Methods:
+1. changeArtist (updates artistOnDisplay)
+2. purchaseVotive (adds 1 to numOfVotives)
+3. taxArt (mulitplies costOfArt by 1.07  )
+4. turnOnMoodLighting (moodLightsOn = true)
+5. addPaintColor (adds "cyan" to muralPaintColors array)
