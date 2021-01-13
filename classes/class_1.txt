@@ -8,8 +8,8 @@ Attributes:
 5. ingredients (array)
 
 Methods:
-1. renameDish = (updates nameOfDish)
-2. orderDish = (adds 1 to numOfTimesOrdered)
-3. discount = (deducts 0.5 from costOfDish)
-4. orderReady = (isPrepared = true)
-5. addIngredient = (adds "red peppers" to ingredients array)
+1. renameDish (updates nameOfDish)
+2. orderDish (adds 1 to numOfTimesOrdered)
+3. discount (deducts 0.5 from costOfDish)
+4. orderReady (isPrepared = true)
+5. addIngredient (adds "red peppers" to ingredients array)
