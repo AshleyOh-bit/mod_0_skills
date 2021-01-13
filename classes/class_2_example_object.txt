@@ -1,0 +1,15 @@
+Class name: LibbyGaronsPaintings
+
+Attributes:
+1. artistOnDisplay = "Libby Garon" (string)
+2. numOfPieces = 5 (integer)
+3. costOfArt = 100.5 (float)
+4. pieceSold = false (Boolean)
+5. paintColors = ["red", "blue", "green"] (array)
+
+Methods:
+1. changeArtist => artistOnDisplay = "Ty Holter"
+2. addArtPiece => numOfArtPieces = 6
+3. taxArt => costOfArt = 107.54
+4. sellPiece => pieceSold = true
+5. addPaintColor => paintColors = ["red", "blue", "green", "cyan"]
