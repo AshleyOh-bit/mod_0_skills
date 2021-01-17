@@ -1,15 +1,15 @@
 Class name: Entree
 
 Attributes:
-1. nameOfDish (string)
-2. numOfTimesOrdered (integer)
-3. costOfDish (float)
+1. name (string)
+2. numOfCheeses (integer)
+3. cost (float)
 4. isPrepared (Boolean)
 5. ingredients (array)
 
 Methods:
-1. renameDish (updates nameOfDish)
-2. orderDish (adds 1 to numOfTimesOrdered)
-3. discount (deducts 0.5 from costOfDish)
+1. rename (updates name)
+2. removeDairy (sets numOfCheeses to 0 AND removes any dairy products from ingredients array)
+3. discount (deducts 0.5 from cost)
 4. orderReady (isPrepared = true)
 5. addIngredient (adds "red peppers" to ingredients array)

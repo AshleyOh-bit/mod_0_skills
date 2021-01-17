@@ -4,12 +4,12 @@ Attributes:
 1. nameOfArtist (string)
 2. numOfArtPieces (integer)
 3. costOfArt (float)
-4. pieceSold (Boolean)
+4. isForSale (Boolean)
 5. paintColors (array)
 
 Methods:
 1. changeArtist (updates nameOfArtist)
 2. addArtPiece (adds 1 to numOfArtPieces)
 3. taxArt (mulitplies costOfArt by 1.07  )
-4. sellPiece (pieceSold = true)
+4. sellPiece (isForSale = false)
 5. addPaintColor (adds "cyan" to paintColors array)
