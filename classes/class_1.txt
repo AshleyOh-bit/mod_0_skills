@@ -11,5 +11,5 @@ Methods:
 1. rename (updates name)
 2. removeDairy (sets numOfCheeses to 0 AND removes any dairy products from ingredients array)
 3. discount (deducts 0.5 from cost)
-4. orderReady (isPrepared = true)
+4. plateEntree (isPrepared = true)
 5. addIngredient (adds "red peppers" to ingredients array)

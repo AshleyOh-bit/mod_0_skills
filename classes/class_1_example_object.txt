@@ -11,5 +11,5 @@ Methods:
 1. rename => name = "Auntie Sue's Lasanga"
 2. removeDairy => numOfCheeses = 0; ingredients = ["lasanga noodles", "marinera"]
 3. discount => cost = 10.25
-4. orderReady => isPrepared = true
+4. plateEntree => isPrepared = true
 5. addIngredient => ingredients = ["lasanga noodles",  "marinera", "red peppers"]
